@@ -2,12 +2,12 @@
 
 ## The Repository
 
-This repository contains the [online portal](https://) for marketing company Horiseon Social Solution Services, Inc. 
+This repository contains the [online portal](https://c-navarroperez.github.io/theHoriseonExperience/) for marketing company Horiseon Social Solution Services, Inc. 
 
 
 ## Navigation
 
-This updated [portal](https://) counts with better accessibility, in Horiseon's push to ensure that people with disabilities can access a website using assistive technologies.
+This updated [portal](https://c-navarroperez.github.io/theHoriseonExperience/) counts with better accessibility, in Horiseon's push to ensure that people with disabilities can access a website using assistive technologies.
 
 The different sections of the portal can be accessed by clicking the links in the navigation bar found at the top of the site. Alternatively, please scroll through and explore at your leisure.
 
